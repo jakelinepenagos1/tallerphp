@@ -6,3 +6,21 @@
     height: 200px;
 
 }
+.carusel 
+{
+
+    height: 550px;
+}
+
+
+body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNA-4jEwukx79tJCL1A5Rsp9wh4ZAHe_MrIQ&usqp=CAU);
+}
+
+
+main
+{
+    background-color: rgba(168, 219, 219, 0.993);
+}
+
