@@ -97,7 +97,10 @@
                 <hr>
 
                 <h2 class="letra1">descripcion del producto</h2>
-                <h1>jweufowuuw fjfwjnfwnfew fwfenf</h1>
+
+                <h3>nombre del producto :postre de queso y arequipe o dulce de leche </h3>  
+                <h4>un delicioso postre con leches con una corteza de galleta y por encima una deliciosa capa de arequipe o dulce de leche </h4> 
+               
 
               </div>
 
@@ -108,7 +111,7 @@
                 <img class=imagen src="img/producto2.jpg" alt="producto">
                 <hr>
                 <h2>descripcion del producto</h2>
-                 <h1>jweufow uuwfjfwjnfw nfewfwfenf</h1>
+                
 
               </div>
               
@@ -137,8 +140,8 @@
              <img class=imagen src="img/producto4.jpg" alt="producto">
              <hr>
 
-                <h2>descripcion del producto</h2>
-                <h1>jweufowuuw fjfwjnfwnfe wfwfenf</h1>
+                < <h3>nombre del producto :postre de chocolate  </h3>  
+                <h4>este producto tiene un deliciosos sabor a chocolate amargo con superficie de chocolate blanco y un deliciosos decorado llamativa tiene un precio aproximado de $3 dolares por unidad</h4> 
     
 
            </div>
@@ -150,7 +153,7 @@
           <hr>
 
                 <h2>descripcion del producto</h2>
-                <h1>jweufowuu fjfwjnfwnfewf wfenf</h1>
+                <h3>jweufowuu fjfwjnfwnfewf wfenf</h3>
     
 
             </div>
