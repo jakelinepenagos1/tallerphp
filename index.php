@@ -99,7 +99,7 @@
                 <h2 class="letra1">descripcion del producto</h2>
 
                 <h3>nombre del producto :postre de queso y arequipe o dulce de leche </h3>  
-                <h4>un delicioso postre con leches con una corteza de galleta y por encima una deliciosa capa de arequipe o dulce de leche </h4> 
+                <h4>un delicioso postre con leches con una corteza de galleta y por encima una deliciosa capa de arequipe o dulce de leche tiene un precio aproximado de 2$ dolares por unidad</h4> 
                
 
               </div>
@@ -111,7 +111,8 @@
                 <img class=imagen src="img/producto2.jpg" alt="producto">
                 <hr>
                 <h2>descripcion del producto</h2>
-                
+                <h3>nombre del producto :cheesecake </h3>  
+                <h4>un postre clasico de quedo con toques de menta y chocolates tiene un precio de aproximado se 6$ dolares por unidad  </h4> 
 
               </div>
               
@@ -123,7 +124,8 @@
                 <hr>
 
                 <h2>descripcion del producto</h2>
-                <h1>jweufowu uwfjfwjnfwnfe wfwfenf</h1>
+                <h3>nombre del producto :torta de red velvet</h3>  
+                <h4>un delicioso postre de un clasico red velvet con un delicado sabor a mental tiene un precio aproc¿ximado de 3$ dolares por unidad </h4> 
     
                    </div>
                    </div>
@@ -153,7 +155,9 @@
           <hr>
 
                 <h2>descripcion del producto</h2>
-                <h3>jweufowuu fjfwjnfwnfewf wfenf</h3>
+                <h3>nombre del producto :cupcakes de chocolate </h3>  
+                <h4>un delicisos y delicado cupcake de chocolate amargo con un relleno de chocolate con leche por unidad se vende con la aproximacion de $1 dolar </h4> 
+                
     
 
             </div>
