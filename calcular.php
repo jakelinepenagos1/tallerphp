@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> candy paradise  </title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="estilos.css">
+    
+    <link rel="stylesheet" href="estilos2.css">
 </head>
 <body>
     <header>
@@ -95,6 +96,16 @@
                             <input type="number" class="form-control" placeholder="Precio($)" name="precio5">
                         </div>
                     </div>
+
+                    <div class="row mb-3">
+                        <div class="col">
+                            <input type="text" class="form-control" placeholder="Producto6" name="producto6">
+                        </div>
+                        <div class="col">
+                            <input type="number" class="form-control" placeholder="Precio($)" name="precio6">
+                        </div>
+                    </div>
+
                     <button type="submit" class="btn btn-primary btn-block" name="botonCalcular">Calcular</button>
                 </form>
 
@@ -122,17 +133,22 @@
                             $precio5=$_POST["precio5"];
                             $producto5=$_POST["producto5"];
 
-                            $total=$precio1+$precio2+$precio3+$precio4+$precio5;
+                            $precio6=$_POST["precio6"];
+                            $producto6=$_POST["producto6"];
 
-                            echo("El producto 1 es: ".$producto1." -----($) ".$precio1);
+                            $total=$precio1+$precio2+$precio3+$precio4+$precio5+$precio6;
+
+                            echo("El producto 1 es: ".$producto1." ---($) ".$precio1);
                             echo("<br>");
-                            echo("El producto 2 es: ".$producto2." -----($) ".$precio2);
+                            echo("El producto 2 es: ".$producto2." ---($) ".$precio2);
                             echo("<br>");
-                            echo("El producto 3 es: ".$producto3." -----($) ".$precio3);
+                            echo("El producto 3 es: ".$producto3." ---($) ".$precio3);
                             echo("<br>");
-                            echo("El producto 4 es: ".$producto4." -----($) ".$precio4);
+                            echo("El producto 4 es: ".$producto4." ---($) ".$precio4);
                             echo("<br>");
-                            echo("El producto 5 es: ".$producto5." -----($) ".$precio5);
+                            echo("El producto 5 es: ".$producto5." ---($) ".$precio5);
+                            echo("<br>");
+                            echo("El producto 5 es: ".$producto6." ---($) ".$precio6);
                             echo("<br>");
                             echo("<br>");
                             echo("******************************");

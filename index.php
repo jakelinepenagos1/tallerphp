@@ -7,7 +7,8 @@
     <title> candy paradise  </title>
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="estilos.css">
+  
+    <link rel="stylesheet" href="estilos2.css">
     
     
 </head>
@@ -157,6 +158,20 @@
                 <h2>descripcion del producto</h2>
                 <h3>nombre del producto :cupcakes de chocolate </h3>  
                 <h4>un delicisos y delicado cupcake de chocolate amargo con un relleno de chocolate con leche por unidad se vende con la aproximacion de $1 dolar </h4> 
+
+
+                </div>
+           <div class="col-4">
+
+          <h3>postre6</h3>
+          <hr>
+          <img class=imagen src="img/producto6.jpg" alt="producto">
+          <hr>
+
+                <h2>descripcion del producto</h2>
+                <h3>nombre del producto :postre de limon  </h3>  
+                <h4>un delicioso postre de limon con un relleno de limos y de narajan decorado con crema santillin y con rodajas de limon tiene un precio aproximado de 6$ dolares por unidad  </h4> 
+                
                 
     
 
